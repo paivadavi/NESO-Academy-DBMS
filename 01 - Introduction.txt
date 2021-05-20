@@ -1,0 +1,39 @@
+Introduction to Database Management Systems
+
+Data: Raw, unprocessed facts that you can store
+
+Information: Meaningful content obtained through the processing of data
+
+*The difference between data and information
+
+DataBase: A collection of related data
+
+Meta-Data: The complete description of a database
+
+------------------------What is a DBMS?-------------------
+	
+Formal def: Collection of programs that enables users 	to create, operate and maintain a database. 
+	
+A DBMS is a system to manage the database (storing or 	retrieving data from it)
+
+Functionalities of a DBMS
+
+Define - Specifying the data type, structures and constraints for the data to be stored.
+
+Construct - Process of storing data on some storage medium
+
+Manipulate - Querrying the database to retrieve specific data, updating database and generating reports.
+
+Share - Allows multiple users and programs to acces the database concurrently.
+
+**DMBS's also protect the databases from unauthorized access
+
+----------------------Properties of  a DataBase-----------------------------------
+
+1 - A database represents some aspects of the real world (a mini world)
+
+2 - A database is a logically coherent collection of data with some inherent meaning
+
+3 - A database is designed, built and populated with data for a specific purpose
+
+
